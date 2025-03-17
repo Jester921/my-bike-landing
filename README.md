@@ -1,4 +1,4 @@
-🚴 My Bike Landing
+🚴 My Bike Landing - [DEMO LINK](https://jester921.github.io/my-bike-landing/)
 📝 About the Project
 
 My Bike Landing is a responsive landing page designed for a bike-related business or product. The project was built using a incorporating modern web development practices to ensure efficiency and maintainability.
